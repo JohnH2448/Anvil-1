@@ -1,0 +1,20 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "0cf01325-ccdc-4589-85da-4f1e8d16bdcc")
+	(paper "A3")
+	(title_block
+		(title "Anvil-1")
+		(date "2026-09-30")
+		(rev "1.0")
+		(company "John Hyatt")
+		(comment 1 "Softcore Development Board")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "2")
+		)
+	)
+)
