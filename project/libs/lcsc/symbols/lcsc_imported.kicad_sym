@@ -2384,4 +2384,668 @@
       )
     )
   )
+  (symbol "PZ254V-11-30P"
+    (exclude_from_sim no)
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "H"
+      (at 0 1.27 0)
+      (effects
+        (font (size 1.27 1.27))
+      )
+    )
+    (property "Value" "PZ254V-11-30P"
+      (at 0 -2.54 0)
+      (effects
+        (font (size 1.27 1.27))
+      )
+    )
+    (property "Footprint" "lcsc_footprints:C22465885_HDR-TH_30P-P2_54-V-M"
+      (at 0 -10.16 0)
+      (effects
+        (font (size 1.27 1.27))
+        (hide yes)
+      )
+    )
+    (property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2409300902_XFCN-PZ254V-11-30P_C22465885.pdf"
+      (at -2.286 0.127 0)
+      (effects
+        (font (size 1.27 1.27))
+        (hide yes)
+      )
+    )
+    (property "Description" "PZ254V-11-30P"
+      (at 0 0 0)
+      (effects
+        (font (size 1.27 1.27))
+        (hide yes)
+      )
+    )
+    (property "LCSC" "C22465885"
+      (at 0 0 0)
+      (effects
+        (font (size 1.27 1.27))
+        (hide yes)
+      )
+    )
+    (property "Manufacturer" "XFCN(兴飞)"
+      (at 0 0 0)
+      (effects
+        (font (size 1.27 1.27))
+        (hide yes)
+      )
+    )
+    (symbol "PZ254V-11-30P_1_1"
+      (pin unspecified line
+        (at -2.54 -35.56 0)
+        (length 2.54)
+        (name "30"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "30"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 -33.02 0)
+        (length 2.54)
+        (name "29"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "29"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 -30.48 0)
+        (length 2.54)
+        (name "28"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "28"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 -27.94 0)
+        (length 2.54)
+        (name "27"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "27"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 -25.4 0)
+        (length 2.54)
+        (name "26"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "26"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 -22.86 0)
+        (length 2.54)
+        (name "25"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "25"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 -20.32 0)
+        (length 2.54)
+        (name "24"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "24"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 -17.78 0)
+        (length 2.54)
+        (name "23"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "23"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 -15.24 0)
+        (length 2.54)
+        (name "22"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "22"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 -12.7 0)
+        (length 2.54)
+        (name "21"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "21"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 -10.16 0)
+        (length 2.54)
+        (name "20"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "20"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 -7.62 0)
+        (length 2.54)
+        (name "19"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "19"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 -5.08 0)
+        (length 2.54)
+        (name "18"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "18"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 -2.54 0)
+        (length 2.54)
+        (name "17"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "17"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 -0.0 0)
+        (length 2.54)
+        (name "16"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "16"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 2.54 0)
+        (length 2.54)
+        (name "15"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "15"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 5.08 0)
+        (length 2.54)
+        (name "14"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "14"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 7.62 0)
+        (length 2.54)
+        (name "13"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "13"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 10.16 0)
+        (length 2.54)
+        (name "12"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "12"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 12.7 0)
+        (length 2.54)
+        (name "11"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "11"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 15.24 0)
+        (length 2.54)
+        (name "10"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "10"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 17.78 0)
+        (length 2.54)
+        (name "9"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "9"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 20.32 0)
+        (length 2.54)
+        (name "8"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "8"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 22.86 0)
+        (length 2.54)
+        (name "7"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "7"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 25.4 0)
+        (length 2.54)
+        (name "6"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "6"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 27.94 0)
+        (length 2.54)
+        (name "5"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "5"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 30.48 0)
+        (length 2.54)
+        (name "4"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "4"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 33.02 0)
+        (length 2.54)
+        (name "3"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "3"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 35.56 0)
+        (length 2.54)
+        (name "2"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "2"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -2.54 38.1 0)
+        (length 2.54)
+        (name "1"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "1"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (circle
+        (center 1.27000254000508 39.37007874015748)
+        (radius 0.381000762001524)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
+      (rectangle
+        (start 0.0 40.64008128016256)
+        (end 5.08001016002032 -38.1000762001524)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
+    )
+  )
+  (symbol "TLV7012DDFR"
+    (exclude_from_sim no)
+    (in_bom yes)
+    (on_board yes)
+    (property "Reference" "U"
+      (at 0 1.27 0)
+      (effects
+        (font (size 1.27 1.27))
+      )
+    )
+    (property "Value" "TLV7012DDFR"
+      (at 0 -2.54 0)
+      (effects
+        (font (size 1.27 1.27))
+      )
+    )
+    (property "Footprint" "lcsc_footprints:C2871502_SOT-23-8_L2_9-W1_6-P0_65-LS2_8-BL"
+      (at 0 -10.16 0)
+      (effects
+        (font (size 1.27 1.27))
+        (hide yes)
+      )
+    )
+    (property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2303010230_Texas-Instruments-TLV7012DDFR_C2871502.pdf"
+      (at -2.286 0.127 0)
+      (effects
+        (font (size 1.27 1.27))
+        (hide yes)
+      )
+    )
+    (property "Description" "TLV7012DDFR"
+      (at 0 0 0)
+      (effects
+        (font (size 1.27 1.27))
+        (hide yes)
+      )
+    )
+    (property "LCSC" "C2871502"
+      (at 0 0 0)
+      (effects
+        (font (size 1.27 1.27))
+        (hide yes)
+      )
+    )
+    (property "Manufacturer" "TI(德州仪器)"
+      (at 0 0 0)
+      (effects
+        (font (size 1.27 1.27))
+        (hide yes)
+      )
+    )
+    (symbol "TLV7012DDFR_1_1"
+      (pin unspecified line
+        (at 10.16 5.08 180)
+        (length 2.54)
+        (name "VCC"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "8"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at 10.16 2.54 180)
+        (length 2.54)
+        (name "OUTB"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "7"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at 10.16 -0.0 180)
+        (length 2.54)
+        (name "INB-"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "6"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at 10.16 -2.54 180)
+        (length 2.54)
+        (name "INB+"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "5"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -12.7 -2.54 0)
+        (length 2.54)
+        (name "VEE"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "4"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -12.7 -0.0 0)
+        (length 2.54)
+        (name "INA+"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "3"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -12.7 2.54 0)
+        (length 2.54)
+        (name "INA-"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "2"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (pin unspecified line
+        (at -12.7 5.08 0)
+        (length 2.54)
+        (name "OUTA"
+          (effects
+            (font (size 1 1))
+          )
+        )
+        (number "1"
+          (effects
+            (font (size 1 1))
+          )
+        )
+      )
+      (circle
+        (center -8.89001778003556 6.350012700025401)
+        (radius 0.381000762001524)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
+      (rectangle
+        (start -10.16002032004064 7.62001524003048)
+        (end 7.62001524003048 -5.08001016002032)
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type background))
+      )
+    )
+  )
 )
